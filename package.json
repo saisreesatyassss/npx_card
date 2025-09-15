@@ -1,6 +1,6 @@
 {
   "name": "saisreesatya",
-  "version": "4.0.1",
+  "version": "4.1.0",
   "description": "A personal card for Sai Sree Satya (@satya)",
   "main": "card.js",
   "bin": {
